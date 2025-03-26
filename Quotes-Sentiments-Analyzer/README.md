@@ -2,7 +2,7 @@
 
 A Python Jupyter Notebook that scrapes quotes from [quotes.toscrape.com](http://quotes.toscrape.com), analyzes their sentiment using TextBlob, and visualizes the results with Matplotlib/Seaborn. Includes an interactive search feature to explore quotes by author or keyword.
 
-![Demo](https://www.youtube.com/watch?v=rjdL_bfSNRI)
+[Video demo](https://www.youtube.com/watch?v=rjdL_bfSNRI)
 
 ## Features ✨
 - **Web Scraping**: Collect quotes, authors, and tags from multiple pages.
@@ -77,6 +77,6 @@ MIT License.
 
 ---
 
-**Author**: [Your Name](https://linkedin.com/in/mohamedtaqysalmi)  
+**Author**: [Mohamed-Taqy Salmi](https://linkedin.com/in/mohamedtaqysalmi)  
 **Contribute**: PRs and issues welcome!  
 ```
