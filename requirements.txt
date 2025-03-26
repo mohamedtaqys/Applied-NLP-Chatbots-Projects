@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+textblob
+tqdm
+matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
+language-tool-python
+spacy
