@@ -30,7 +30,7 @@ It leverages the **TextBlob** library to analyze the sentiment of the user's res
 
 3. Run the notebook:
    ```bash
-   jupyter notebook Mood-Predictor.ipynb
+   jupyter notebook Mood_Predictor.ipynb
    ```
 ## File Structure 📂
 ```
