@@ -22,8 +22,8 @@ A Python Jupyter Notebook that scrapes quotes from [quotes.toscrape.com](http://
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohamedtaqysalmi/quotes-sentiment-analyzer.git
-   cd quotes-sentiment-analyzer
+   git clone https://github.com/mohamedtaqysalmi/Applied-NLP-Chatbots-Projects.git
+   cd Quotes-Sentiments-Analyzer
    ```
 
 2. Install dependencies:
@@ -48,7 +48,7 @@ A Python Jupyter Notebook that scrapes quotes from [quotes.toscrape.com](http://
 
 ## File Structure 📂
 ```
-quotes-sentiment-analyzer/
+Quotes-Sentiment-Analyzer/
 ├── Quotes_Sentiments_Analyzer.ipynb  # Main notebook
 ├── requirements.txt                 # Dependencies
 ├── data/                            # Output folder (auto-created)
