@@ -23,7 +23,7 @@ This repository is a collection of AI-powered projects focusing on **Natural Lan
 ## 🚀 How to Run the Projects
 1. Clone the repository:
    ```
-   git clone https://github.com/mohamedtaqys/AI-Chatbots-and-NLP-Projects.git
+   git clone https://github.com/mohamedtaqysalmi/AI-Chatbots-and-NLP-Projects.git
    ```
 2. Navigate to the project folder:
    ```
