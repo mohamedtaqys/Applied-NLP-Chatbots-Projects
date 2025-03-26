@@ -23,11 +23,11 @@ This repository is a collection of AI-powered projects focusing on **Natural Lan
 ## 🚀 How to Run the Projects
 1. Clone the repository:
    ```
-   git clone https://github.com/mohamedtaqysalmi/AI-Chatbots-and-NLP-Projects.git
+   git clone https://github.com/mohamedtaqysalmi/Applied-NLP-Chatbots-Projects.git
    ```
 2. Navigate to the project folder:
    ```
-   cd AI-Chatbots-and-NLP-Projects
+   cd Applied-NLP-Chatbots-Projects
    ```
 3. Open the project of your choice in **Jupyter Notebook** or **VSCode**.
 4. Install required dependencies (requirements.txt provided where needed):
