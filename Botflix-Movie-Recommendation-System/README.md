@@ -1,6 +1,8 @@
 # **Botflix - Movie Recommendation System**
 Botflix is a movie recommendation system designed to help users discover movies they might enjoy. It uses content-based filtering to recommend movies based on genres and provides additional functionalities like searching for movies, suggesting random movies, and finding top movies by theme. The system is interactive and user-friendly, making it easy for users to explore and find their next favorite movie.
 
+[Video demo](https://www.youtube.com/watch?v=12r40o1aYYQ)
+
 ## Data Source  
 This project uses the **TMDB Movie Metadata** dataset from Kaggle:  
 - **Dataset**: [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)  
