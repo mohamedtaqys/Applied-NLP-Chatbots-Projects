@@ -40,7 +40,7 @@ Tech Stack:
 
 3. Run the notebook:
    ```bash
-   jupyter notebook SpellFixer-Bot.ipynb
+   jupyter notebook SpellFixer_Bot.ipynb
    ```
 
 ## File Structure 📂
