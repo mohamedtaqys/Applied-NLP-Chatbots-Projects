@@ -22,7 +22,7 @@ A Python Jupyter Notebook that scrapes quotes from [quotes.toscrape.com](http://
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohamedtaqys/quotes-sentiment-analyzer.git
+   git clone https://github.com/mohamedtaqysalmi/quotes-sentiment-analyzer.git
    cd quotes-sentiment-analyzer
    ```
 
