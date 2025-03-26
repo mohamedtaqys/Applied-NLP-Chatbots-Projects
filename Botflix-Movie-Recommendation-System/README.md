@@ -63,6 +63,9 @@ This project uses the **TMDB Movie Metadata** dataset from Kaggle:
 ## File Structure 📂
 ```
 Botflix-Movie-Recommendation-System/
+├── data
+|     ├── tmdb_5000_movies.csv
+|     └── tmdb_5000_credits.csv
 ├── BotFlix.ipynb            # Main notebook
 ├── requirements.txt         # Dependencies
 └── README.md
