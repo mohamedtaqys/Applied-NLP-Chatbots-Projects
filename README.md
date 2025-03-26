@@ -1,8 +1,6 @@
 # Applied-NLP-Chatbots-Projects
 A collection of AI and NLP projects including sentiment analysis, chatbots, mood detection, grammar correction, and data visualization. Featuring Botflix, Mood-Predictor, SpellFixer Bot, and more. Showcasing machine learning and Python skills.
 
-# 🧠 AI Chatbots & NLP Projects 🚀
-
 ## 📖 Overview
 This repository is a collection of AI-powered projects focusing on **Natural Language Processing (NLP)**, **chatbots**, **sentiment analysis**, and **data visualization**. Each project demonstrates practical applications of machine learning, Python, and AI for real-world tasks.
 
